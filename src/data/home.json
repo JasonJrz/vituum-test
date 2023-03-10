@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Mercedes",
+      "route": "/cases/mercedes"
+    },
+    {
+      "title": "Nike",
+      "route": "/cases/nike"
+    },
+    {
+      "title": "Apple",
+      "route": "/cases/apple"
+    }
+  ]
+}

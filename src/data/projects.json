@@ -1,0 +1,14 @@
+{
+  "mercedes": {
+    "title": "Mercedes",
+    "description": "This project was a collaboration with Mercedes"
+  },
+  "nike": {
+    "title": "Nike",
+    "description": "This project was a collaboration with Nike"
+  },
+  "apple": {
+    "title": "Apple",
+    "description": "This project was a collaboration with Apple"
+  }
+}
