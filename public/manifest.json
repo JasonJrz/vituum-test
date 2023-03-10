@@ -1,0 +1,12 @@
+{
+  "styles/index.scss": {
+    "file": "assets/index-8d80c67b.css",
+    "src": "styles/index.scss",
+    "isEntry": true
+  },
+  "scripts/index.js": {
+    "file": "assets/index-95e93498.js",
+    "src": "scripts/index.js",
+    "isEntry": true
+  }
+}

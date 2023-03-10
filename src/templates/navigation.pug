@@ -1,0 +1,5 @@
+
+nav.navigation
+  each item in navigation
+    .navigation__items
+      a.navigation__item__link(href="/" + item.route)=item.title

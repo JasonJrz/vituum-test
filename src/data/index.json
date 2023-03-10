@@ -1,0 +1,24 @@
+{
+  "navigation": [
+    {
+      "title": "Home",
+      "route": ""
+    },
+    {
+      "title": "Showroom",
+      "route": "case"
+    },
+    {
+      "title": "Approach",
+      "route": "approach"
+    },
+    {
+      "title": "Story",
+      "route": "story"
+    },
+    {
+      "title": "Contact",
+      "route": "contact"
+    }
+  ]
+}
